@@ -53,3 +53,4 @@ Please refer to the [Feature Roadmap](https://github.com/KhronosGroup/glTF-Asset
 - [ v0.1.0 ](https://github.com/KhronosGroup/glTF-Asset-Generator/releases/download/v0.1.0/GeneratedAssets-0.1.0.zip)
 Created by heisejason Heise
 Owned by Jason Heise heisejason-png Giters
+https://threads.net/@jaysonscottheise?invite=0
